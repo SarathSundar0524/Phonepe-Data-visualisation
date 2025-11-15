@@ -1,14 +1,3 @@
-# app.py
-"""
-PhonePe Insights — Final (CSV-only)
-- Home: Three category tabs (Transactions / Users / Insurance) — NO DROPDOWN on Home.
-- Each category uses a default main metric to color the India choropleth.
-- Hover shows all relevant metrics for the selected category.
-- Sidebar: 5 scenario pages (Key1..Key5) — charts only (no map).
-- State normalization uses the exact mapping you provided.
-- CSV paths are configurable in CSV_PATHS.
-"""
-
 import os
 from functools import lru_cache
 import streamlit as st
@@ -455,3 +444,4 @@ elif page == "Scenario 4: User Engagement by Brand (Key4)":
 # -----------------------------
 st.markdown("---")
 st.caption("### Data visualisation dashboard built with Streamlit and Plotly.")
+
