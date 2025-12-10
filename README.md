@@ -58,6 +58,7 @@ Hovering over any state reveals:
 - Insurance count  
 - Top districts  
 - Top pincodes  
+<img width="1383" height="766" alt="Screenshot 2025-11-15 162629" src="https://github.com/user-attachments/assets/e66592e4-6fd3-4665-8bab-ddc9f039f314" />
 
 Everything is automatically mapped and normalized.
 
@@ -70,13 +71,15 @@ Everything is automatically mapped and normalized.
 
 
 ### Scenario 2 – Yearly Transaction Growth
-![](screenshots/yearly_growth.png)
+<img width="1422" height="527" alt="Screenshot 2025-11-15 162721" src="https://github.com/user-attachments/assets/cf27e1d1-95d6-4c9d-99c1-295cdcbab8fc" />
+
 
 ### Scenario 3 – Insurance Penetration by State
-![](screenshots/insurance_penetration.png)
+<img width="1421" height="552" alt="Screenshot 2025-11-15 162757" src="https://github.com/user-attachments/assets/ae0d85b6-8154-4f92-a5a2-114e2ed7eb4d" />
+
 
 ### Scenario 4 – Top Mobile Brands by User Count
-![](screenshots/top_brands.png)
+<img width="1436" height="551" alt="Screenshot 2025-11-15 161858" src="https://github.com/user-attachments/assets/1c877e2e-aed5-4f35-8e56-8a2ac8487fc8" />
 
 ---
 
