@@ -66,7 +66,8 @@ Everything is automatically mapped and normalized.
 ## Business Scenarios (Dropdown)
 
 ### Scenario 1 – Top Transaction States
-![](screenshots/top_states.png)
+<img width="1422" height="520" alt="Screenshot 2025-11-15 161324" src="https://github.com/user-attachments/assets/774611fe-4811-4847-bcf3-a8d44a5856f1" />
+
 
 ### Scenario 2 – Yearly Transaction Growth
 ![](screenshots/yearly_growth.png)
